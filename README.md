@@ -2,6 +2,8 @@
 
 A simple calculator made with Vue-js
 
+![Vue-Calculator](https://github.com/sandali-singh/Vue-Calculator/assets/72544086/0108d39f-2049-4370-bbc9-b38763e5b212)
+
 > A Vue.js project
 
 ## Build Setup
